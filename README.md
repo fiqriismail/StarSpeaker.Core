@@ -1,0 +1,1 @@
+# StarSpeaker.Core
